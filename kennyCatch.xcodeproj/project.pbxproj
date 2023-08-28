@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D0FB2DA2A9C935D00AAEAA8 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D0FB2D92A9C935D00AAEAA8 /* ViewController2.swift */; };
 		3D7F4FE92A9B6A4B004A6E20 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7F4FE82A9B6A4B004A6E20 /* AppDelegate.swift */; };
 		3D7F4FEB2A9B6A4B004A6E20 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7F4FEA2A9B6A4B004A6E20 /* SceneDelegate.swift */; };
 		3D7F4FED2A9B6A4B004A6E20 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7F4FEC2A9B6A4B004A6E20 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3D0FB2D92A9C935D00AAEAA8 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		3D7F4FE52A9B6A4B004A6E20 /* kennyCatch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kennyCatch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D7F4FE82A9B6A4B004A6E20 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3D7F4FEA2A9B6A4B004A6E20 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				3D7F4FE82A9B6A4B004A6E20 /* AppDelegate.swift */,
 				3D7F4FEA2A9B6A4B004A6E20 /* SceneDelegate.swift */,
 				3D7F4FEC2A9B6A4B004A6E20 /* ViewController.swift */,
+				3D0FB2D92A9C935D00AAEAA8 /* ViewController2.swift */,
 				3D7F4FEE2A9B6A4B004A6E20 /* Main.storyboard */,
 				3D7F4FF12A9B6A4D004A6E20 /* Assets.xcassets */,
 				3D7F4FF32A9B6A4D004A6E20 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3D7F4FED2A9B6A4B004A6E20 /* ViewController.swift in Sources */,
+				3D0FB2DA2A9C935D00AAEAA8 /* ViewController2.swift in Sources */,
 				3D7F4FE92A9B6A4B004A6E20 /* AppDelegate.swift in Sources */,
 				3D7F4FEB2A9B6A4B004A6E20 /* SceneDelegate.swift in Sources */,
 			);
